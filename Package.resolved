@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "OpenSpiel",
+        "repositoryURL": "https://github.com/deepmind/open_spiel.git",
+        "state": {
+          "branch": "master",
+          "revision": "71d76631feb2e62ee1b90421acf981ee11a28fce",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
